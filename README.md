@@ -11,3 +11,5 @@ Example ===> Write A Program That Takes A String From The User And Deletes All T
 Description Of Files:
 
 For Run ===> ruby practice_10.rb
+
+# Finish
